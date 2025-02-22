@@ -19,11 +19,11 @@ Ensure you have Python3.x installed on your system. If you are using Anaconda, P
 1. Clone this repository or download the project files.
 2. Open a **terminal** or **Anaconda Prompt** and navigate to the project folder.
 ```
-cd path/to/connectfour
+cd path/to/Connect-4-main
 ```
 3. Run the `simulator.py` script using Python:
 ```
-phython simulator.py
+python simulator.py
 ```
 4. Follow the on-screen instructions to play the game.
 ---
