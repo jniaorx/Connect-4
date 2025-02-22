@@ -19,7 +19,7 @@ Ensure you have Python3.x installed on your system. If you are using Anaconda, P
 1. Clone this repository or download the project files.
 2.Open a terminal or **Anaconda Prompt** and navigate to the project folder.
 ```
-cd oath/to/connectfour
+cd path/to/connectfour
 ```
 3. Run the `simulator.py` script using Python:
 ```
