@@ -17,7 +17,7 @@ The program runs in the terminal, allowing users to input their moves interactiv
 Ensure you have Python3.x installed on your system. If you are using Anaconda, Python is already included.
 ### Running the Game
 1. Clone this repository or download the project files.
-2.Open a terminal or **Anaconda Prompt** and navigate to the project folder.
+2. Open a **terminal** or **Anaconda Prompt** and navigate to the project folder.
 ```
 cd path/to/connectfour
 ```
