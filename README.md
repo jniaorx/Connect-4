@@ -21,9 +21,9 @@ Ensure you have Python3.x installed on your system. If you are using Anaconda, P
 ```
 cd path/to/Connect-4-main
 ```
-3. Run the `simulator.py` script using Python:
+3. Run the `task2.1.py` script using Python:
 ```
-python simulator.py
+python task2.1.py
 ```
 4. Follow the on-screen instructions to play the game.
 ---
