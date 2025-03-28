@@ -254,7 +254,7 @@ if __name__ == "__main__":
     ai_agent = AIAgent(2)
 
     # Set up the game with one human and one AI agent
-    game = GameController(board=board, agents=[ai_agent, ai_agent])
+    game = GameController(board=board, agents=[human_agent, ai_agent])
 
     # Start timing the game run
     start_time = time.time()
